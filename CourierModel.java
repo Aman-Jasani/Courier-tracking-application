@@ -8,7 +8,7 @@ package courier_system;
 /**
  * This class contains and initialize fields of entire form and 
  * provides getter and setter methods to access and modify data.
- * @author Ajay
+ * @author Aman
  */
 public class CourierModel {
 
